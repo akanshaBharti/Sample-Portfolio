@@ -18,7 +18,7 @@ function Home(){
                  <h1 className='xl:text-3xl md:text-2xl text-black hover:text-white'>- Frontend Web Developer<br></br>- Student</h1>
                  <h1 className='xl:text-xl md:text-l text-black hover:text-white'>I am currently pursuing B.Sc. (Hons.) Computer Science from Hansraj<br></br>College, University of Delhi. 
                  I'm a student with a strong interest in web development. I've always been fascinated by the power of the internet and how websites can have a profound impact on people's lives.
-                 I am involved in college society in addition to my studies. Apart form this, I also love to paint.</h1>
+                 I am involved in college society in addition to my studies. Apart from this, I also love to paint.</h1>
                 <div className='flex m-14'>
                 <h1 className='text-2xl text-black hover:text-white'>Resume:</h1>
                 <a href='https://drive.google.com/file/d/1PqJj-vEwVgpa7p_UIJWcR1LqAZKwgfq-/view?usp=sharing' target='_blank' rel="noreferrer">
