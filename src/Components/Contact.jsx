@@ -12,19 +12,22 @@ function Contact(){
             <img
             src='/images/gmail.jpg'
             className='w-12 h-12 rounded-full'
+            alt=''
             />
             <b className='m-3'>Email : akanshabharti1213@gmail.com</b></a>
-            <a href='https://www.linkedin.com/in/akansha-bharti/' target='_blank' className='flex '>
+            <a href='https://www.linkedin.com/in/akansha-bharti/' target='_blank' rel="noreferrer" className='flex '>
             <img
             src='/images/linkedin.jpg'
             className='w-12 h-12 rounded-full'
+            alt=''
             />
             <b className='m-3'>Linkedin</b>
             </a>
-            <a href='https://github.com/akanshaBharti' target='_blank' className='flex'> 
+            <a href='https://github.com/akanshaBharti' target='_blank' rel="noreferrer" className='flex'> 
             <img
             src='/images/github.jpg'
             className='w-12 h-12 rounded-full'
+            alt=''
             />
             <b className='m-3'>Github</b></a>
         </ul>
