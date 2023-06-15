@@ -27,13 +27,6 @@ function Contact(){
             className='w-12 h-12 rounded-full'
             />
             <b className='m-3'>Github</b></a>
-            <a className='flex'> 
-            <img
-            src='/images/phone.jpg'
-            className='w-12 h-12 rounded-full'
-            />
-            <b className='m-3'>Phone: 7500344244</b></a>
-            
         </ul>
 
         </div>

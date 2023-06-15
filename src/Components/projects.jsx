@@ -1,10 +1,4 @@
 import React from 'react'
-import {
-    Card,
-    CardHeader,
-    CardBody,
-    Typography,
-  } from "@material-tailwind/react";
 import ProjectCard from './projects-card'
 import projectsData from './projects-data'
 
