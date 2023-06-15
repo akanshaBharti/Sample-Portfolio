@@ -3,8 +3,8 @@ import React from 'react'
 function Contact(){
     return(
         <>
-        <div className='h-screen bg-gradient-to-r from-teal-600 from-10% via-cyan-500 via-30% to-cyan-950 to-90%'>
-        <h1 className='text-center text-5xl '>Contact Details</h1>
+        <div className='h-screen bg-gradient-to-r from-teal-500 from-10% via-cyan-500 via-30% to-cyan-900 to-90%'>
+        <h1 className='text-center text-5xl'>Contact Details</h1>
         <hr className='ml-40 mr-40 mt-2'></hr>
         
         <ul className='grid md:grid-cols-2 xl:grid-cols-2 m-10 gap-14 xl:px-80'>
