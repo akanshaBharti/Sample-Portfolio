@@ -13,7 +13,7 @@ function Home(){
                   alt=''
                 />
 
-                <div className='grid mt-6 content-baseline -mx-10 lg:mx-8'>
+                <div className='grid mt-6 content-baseline -mx-14 lg:mx-8'>
                  <h1 className='xl:text-5xl md:text-4xl sm:text-4xl text-black hover:text-white '>Hi, I am Akansha Bharti</h1>
                  <h1 className='xl:text-3xl md:text-2xl text-black hover:text-white'>- Frontend Web Developer<br></br>- Student</h1>
                  <h1 className='xl:text-xl md:text-l text-black hover:text-white'>I am currently pursuing B.Sc. (Hons.) Computer Science from Hansraj<br></br>College, University of Delhi. 
