@@ -4,7 +4,7 @@ import React from 'react'
 function Home(){
     return(
         <>
-        <div className=' bg-gradient-to-r from-teal-500 from-10% via-cyan-500 via-30% to-cyan-900 to-90% '>
+        <div className=' bg-gradient-to-r from-teal-600 from-10% via-cyan-500 via-30% to-cyan-950 to-90% '>
             <section className='px-20 py-40'>
                 <div className=' flex flex-col md:flex-row'>
                 <img
