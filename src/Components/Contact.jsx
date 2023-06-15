@@ -7,7 +7,7 @@ function Contact(){
         <h1 className='text-center text-5xl '>Contact Details</h1>
         <hr className='ml-40 mr-40 mt-2'></hr>
         
-        <ul className='grid px-80 m-10 gap-6'>
+        <ul className='grid md:grid-cols-2 xl:grid-cols-2 m-10 gap-14 xl:px-80'>
             <a className='flex'> 
             <img
             src='/images/gmail.jpg'

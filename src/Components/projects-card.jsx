@@ -11,7 +11,7 @@ function ProjectCard({img, name, link}) {
         size="xl" 
         className="h-60 w-60 rounded-md mt-6 border-2 transition duration-300 ease-in-out hover:opacity-60" 
         />
-      <CardBody className="text-center mt-4">
+      <CardBody className="text-center mt-4 ">
       <a href={link} target={"_blank"} className="text-center cursor-pointer text-2xl hover:text-blue-600">
         {name} 
       </a>
